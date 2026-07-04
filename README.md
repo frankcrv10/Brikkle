@@ -17,7 +17,8 @@ The game does use third party services that may collect information used to iden
 Link to privacy policy of third party service providers used by the game
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [Apple App Store]([https://www.apple.com/legal/privacy/data/en/app-store/])
+*   [Apple App Store](https://www.apple.com/legal/privacy/data/en/app-store/)
+*   [Talo API Backend](https://trytalo.com/privacy)
 
 **Log Data**
 
